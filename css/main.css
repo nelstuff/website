@@ -14,6 +14,12 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+    
+    background: url(../img/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 /*
@@ -98,12 +104,37 @@ textarea {
    ========================================================================== */
 
 
+#title {
+    color: #000000;
+    text-align: center;
+    font: 6em 'Cinzel Decorative','Clicker Script','Milonga','Kurale', 'Amita', cursive;
+    position: absolute;
+    width: 700px;
+    height: 200px;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    bottom: 1.5em;
+    margin: auto auto auto auto;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
 
+    text-shadow: 0px 0px 35px #ffffff;
+}
 
+@media screen and (max-width: 600px) {
+  #title {
+    font-size: 4em;
+  }
+}
 
-
-
-
+@media screen and (max-width: 400px) {
+  #title {
+    font-size: 3em;
+    bottom: 0.5em;
+  }
+}
 
 
 
