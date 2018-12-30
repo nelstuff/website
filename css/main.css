@@ -19,7 +19,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-    background: url(../img/bg.jpg) no-repeat center center fixed; 
+    background: url(../img/screen_1920x1080_2018-10-11_14-29-55.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -112,24 +112,24 @@ textarea {
 #title {
     color: #000000;
     text-align: center;
-    font: 4em 'Cinzel Decorative','Clicker Script','Milonga','Kurale', 'Amita', cursive;
+    font: 6em 'Cinzel Decorative'/*,'Clicker Script','Milonga','Kurale', 'Amita',*/, cursive;
     position: absolute;
     width: 800px;
     height: 200px;
     left: 0px;
     right: 0px;
     top: 0;
-    bottom: 1.5em;
+    bottom: 1.8em;
     margin: auto auto auto auto;
     max-width: 100%;
     max-height: 100%;
     overflow: auto;
 
-    text-shadow: 0px 0px 15px #ffffff77;
+    /*text-shadow: 0px 0px 15px #ffffff77;*/
 }
 
 #textje {
-    color: #ffffff95;
+    color: #ffffffbb;
     text-align: center;
     font: 1.2em 'Open Sans', sans-serif;
     position: absolute;
@@ -144,13 +144,13 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    /*text-shadow: 0px 0px 35px #ffffff;*/
+    /*text-shadow: 0px 0px 30px #00000077;*/
 }
 
 #socialmedia {
-    color: #ffffff95;
+    color: #ffffffbb;
     text-align: center;
-    font: 1.2em 'Open Sans', sans-serif;
+    font: 1.25em 'Open Sans', sans-serif;
     position: absolute;
     width: 700px;
     height: 70px;
@@ -167,26 +167,26 @@ textarea {
 }
 
 #socialmedia a{
-    color: #ffffff95;
+    color: #ffffffbb;
 }
 
 @media screen and (max-width: 600px) {
   #title {
-    font-size: 2.9em;
+    font-size: 3.5em;
     bottom: 1.0em;
   }
 }
 
 @media screen and (max-width: 400px) {
   #title {
-    font-size: 2.3em;
-    bottom: 0.5em;
+    font-size: 3.5em;
+    bottom: 1.0em;
   }
 }
 
 @media screen and (max-width: 320px) {
   #title {
-    font-size: 1.5em;
+    font-size: 3.5em;
     bottom: 0.5em;
   }
 }
