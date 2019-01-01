@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+/*document.addEventListener('DOMContentLoaded', function() {
     
     var index = 0;
     var numImages = 6;
@@ -15,4 +15,4 @@ document.addEventListener('DOMContentLoaded', function() {
     
     displayNextImage();
     
-}, false);
+}, false);*/
