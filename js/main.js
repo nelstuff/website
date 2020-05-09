@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+/*document.addEventListener('DOMContentLoaded', function() {
     var numImages = 6;
     var index = Math.floor(Math.random() * numImages);
     var changeEvery = 7000;
@@ -14,4 +14,4 @@ document.addEventListener('DOMContentLoaded', function() {
     
     displayNextImage();
     
-}, false);
+}, false);*/
