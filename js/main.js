@@ -1,8 +1,7 @@
-/*document.addEventListener('DOMContentLoaded', function() {
-    
-    var index = 0;
+document.addEventListener('DOMContentLoaded', function() {
     var numImages = 6;
-    var changeEvery = 10000;
+    var index = Math.floor(Math.random() * numImages);
+    var changeEvery = 5000;
     
     function displayNextImage() {
       
@@ -15,4 +14,4 @@
     
     displayNextImage();
     
-}, false);*/
+}, false);
