@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     var numImages = 6;
-    var index = Math.floor(Math.random() * numImages);
+    int index = Math.floor(Math.random() * numImages);
     var changeEvery = 7000;
     
     function displayNextImage() {
