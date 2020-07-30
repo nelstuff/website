@@ -19,13 +19,13 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-    background: url(../img/bg6.jpg) no-repeat center center fixed;
+    background: url(../img/bg7.jpg) no-repeat center center fixed;
     /*background: black no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg6.jpg', sizingMethod='scale')";
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg7.jpg', sizingMethod='scale')";
 }
 
 /*
