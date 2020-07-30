@@ -126,7 +126,7 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    text-shadow: 0px 0px 25px #ffffffad;
+    text-shadow: 2px -1px 1px #ffffffff;
 }
 
 #textje {
@@ -145,7 +145,7 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    text-shadow: 2px -1px 1px #ffffffff;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 #socialmedia {
