@@ -19,13 +19,13 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-    background: url(../img/bg0.jpg) no-repeat center center fixed;
+    background: url(../img/bg6.jpg) no-repeat center center fixed;
     /*background: black no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg0.jpg', sizingMethod='scale')";
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg6.jpg', sizingMethod='scale')";
 }
 
 /*
@@ -126,11 +126,11 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    /*text-shadow: 0px 0px 15px #ffffff77;*/
+    text-shadow: 0px 0px 25px #ffffffad;
 }
 
 #textje {
-    color: #ffffffbb;
+    color: #ffffffe0;
     text-align: center;
     font: 1.2em 'Open Sans', sans-serif;
     position: absolute;
@@ -145,11 +145,11 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    /*text-shadow: 0px 0px 30px #00000077;*/
+    text-shadow: 0px 0px 4px #000000;
 }
 
 #socialmedia {
-    color: #ffffffbb;
+    color: #ffffffe0;
     text-align: center;
     font: 1.20em 'Open Sans', sans-serif;
     position: absolute;
@@ -164,11 +164,11 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    /*text-shadow: 0px 0px 35px #ffffff;*/
+    text-shadow: 0px 0px 4px #000000;
 }
 
 #socialmedia a{
-    color: #ffffffbb;
+    color: #ffffffe0;
 }
 
 @media screen and (max-width: 600px) {
