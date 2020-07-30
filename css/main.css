@@ -126,11 +126,11 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    text-shadow: 2px -1px 1px #ffffffff;
+    text-shadow: 2px -1px 1px #fffce94d;
 }
 
 #textje {
-    color: #ffffffe0;
+    color: #ffffffff;
     text-align: center;
     font: 1.2em 'Open Sans', sans-serif;
     position: absolute;
@@ -145,11 +145,11 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    text-shadow: 1px 1px 1px #000000;
+    text-shadow: 1px 1px 3px #000000;
 }
 
 #socialmedia {
-    color: #ffffffe0;
+    color: #ffffffff;
     text-align: center;
     font: 1.20em 'Open Sans', sans-serif;
     position: absolute;
@@ -164,11 +164,11 @@ textarea {
     max-height: 100%;
     overflow: auto;
 
-    text-shadow: 1px 1px 1px #000000;
+    text-shadow: 1px 1px 3px #000000;
 }
 
 #socialmedia a{
-    color: #ffffffe0;
+    color: #ffffffff;
 }
 
 @media screen and (max-width: 600px) {
