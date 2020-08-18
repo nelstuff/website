@@ -174,12 +174,12 @@ textarea {
 
 #steamwidget{
     position: absolute;
-    margin: auto auto 0px auto;
+    margin: auto auto auto auto;
     text-align: center;
     left: 0px;
     right: 0px;
-    top: 0px;
-    bottom: 8em;
+    top: 30em;
+    bottom: 0em;
 }
 
 @media screen and (max-width: 600px) {
