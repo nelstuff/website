@@ -1,4 +1,5 @@
 Redirect /videos.html https://drive.google.com/drive/folders/1nROO4imUtmtoHhAKpEgB_2qeNXDAGuxq?usp=sharing
+Redirect /builds.html https://drive.google.com/drive/folders/1_tbCJwkAV8Yt7f8UdUdiimdnKPAvO-0_?usp=sharing
 
 # Apache Server Configs v3.0.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
