@@ -152,7 +152,8 @@ textarea {
 #socialmedia {
     color: #ffffffff;
     text-align: center;
-    font: 1.30em 'Open Sans', sans-serif;
+    font: 1.20em 'Open Sans', sans-serif;
+    font-weight: 600;
     position: absolute;
     width: 700px;
     height: 70px;
