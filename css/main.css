@@ -114,7 +114,7 @@ textarea {
 #title {
     color: #ffffff;
     text-align: center;
-    font: 6em 'Cinzel Decorative'/*,'Clicker Script','Milonga','Kurale', 'Amita',*/, cursive;
+    font: 9em 'Cinzel Decorative'/*,'Clicker Script','Milonga','Kurale', 'Amita',*/, cursive;
     position: absolute;
     width: 800px;
     height: 200px;
@@ -133,40 +133,40 @@ textarea {
 #textje {
     color: #ffffffff;
     text-align: center;
-    font: 1em 'Open Sans', sans-serif;
+    font: 1.2em 'Lato', 'Open Sans', sans-serif;
     position: absolute;
     width: 700px;
-    height: 100px;
+    height: 70px;
     left: 0px;
     right: 0px;
-    top: 16.9em;
-    bottom: 0em;
-    margin: auto auto auto auto;
+    top: 0em;
+    bottom: 5em;
+    margin: auto auto 0 auto;
     max-width: 100%;
     max-height: 100%;
     overflow: auto;
-
-   /* text-shadow: 1px 1px 7px #000000;*/
+    font-weight: 300;
+   text-shadow: 0px 0px 5px #000000;
 }
 
 #socialmedia {
     color: #ffffffff;
     text-align: center;
-    font: 1em 'Open Sans', sans-serif;
-    font-weight: 600;
+    font: 1em Lato, 'Open Sans', sans-serif;
+    font-weight: 300;
     position: absolute;
     width: 100%;
-    height: 40px;
+    height: 32px;
     left: 0px;
     right: 0px;
     top: 10.1em;
     bottom: 0em;
-    margin: auto auto auto auto;
+    margin: auto auto 0 auto;
     max-width: 100%;
     max-height: 100%;
     overflow: auto;
     /*text-shadow: 0px 0px 5px #000000;*/
-    padding: 20px 0 20px 0px;
+    padding: 14px 0 0px 0px;
     background: rgb(0 0 0 / 50%);
 }
 
